@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Muhammad Naeem
 
 I build **scalable SaaS MVPs** and **AI-powered systems** using **React**, **Laravel**, and **n8n** — designed to launch fast, automate complex workflows, and grow with your users.
 
@@ -51,6 +51,6 @@ Have an idea? Need to automate processes or launch a product fast?
 ---
 
 📫 **Contact**  
-[Your Email or Portfolio URL]  
-[LinkedIn / Twitter / Blog if applicable]
+<a href="https://www.upwork.com/freelancers/~0115aab36c02350af8" target="_blank">Hire me!</a>
+
 
